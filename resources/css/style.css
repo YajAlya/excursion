@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+}
+
+h1, h2, h3, p {
+  font-family: Verdana;
+  text-align: center;
+}
+
+div {
+  align: middle;
+}
+
+.white {
+  color: white;
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.head1 {
+  font-weight: normal;
+  font-size; 50px;
+}
+
+.head2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.gray {
+  color: gray;
+}
+
+.right {
+  text-align: right;
+
+}
+
+#remember {
+  font-size: 21px;
+}
