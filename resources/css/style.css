@@ -1,18 +1,16 @@
 body {
   background-color: black;
-}
-
-h1, h2, h3, p {
   font-family: Verdana;
   text-align: center;
-}
-
-div {
-  align: middle;
-}
-
-.white {
   color: white;
+}
+
+footer {
+  text-align: right;
+}
+
+video {
+  object-fit: contain;
 }
 
 .link {
@@ -22,7 +20,7 @@ div {
 
 .head1 {
   font-weight: normal;
-  font-size; 50px;
+  font-size: 50px;
 }
 
 .head2 {
@@ -34,9 +32,8 @@ div {
   color: gray;
 }
 
-.right {
-  text-align: right;
-
+.auto {
+  margin: 20px;
 }
 
 #remember {
